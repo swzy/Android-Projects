@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">American Football Counter</string>
+    <string name="touchdown">TOUCHDOWN</string>
+    <string name="onepoint">ONE \nPOINT</string>
+    <string name="twopoint">TWO POINTS</string>
+    <string name="fieldgoal">FIELD GOAL</string>
+    <string name="safety">SAFETY</string>
+    <string name="Team_One">Anacondas</string>
+    <string name="Team_Two">Barracudas</string>
+    <string name="Reset">RESET</string>
+</resources>

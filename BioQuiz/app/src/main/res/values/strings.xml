@@ -1,0 +1,33 @@
+<resources>
+    String answerIntro = "The answer is: ";
+    <string name="app_name">BioQuiz</string>
+    <string name="Q1">What is the smallest unit of life?</string>
+    <string name="Q1A">Atom</string>
+    <string name="Q1B">DNA</string>
+    <string name="Q1C">Cell</string>
+    <string name="Q1ans">Cell</string>
+    <string name="Q2">All members of all species in a certain area is a(an):</string>
+    <string name="Q2A">Ecosystem</string>
+    <string name="Q2B">Population</string>
+    <string name="Q2C">Community</string>
+    <string name="Q2ans">Community</string>
+    <string name="Q3">This is the study of the biotic and the abiotic components of an ecosystem.</string>
+    <string name="Q3A">Biology</string>
+    <string name="Q3B">Ecology</string>
+    <string name="Q3C">Zoology</string>
+    <string name="Q3ans">Ecology</string>
+    <string name="Q4">Check all the \"fathers\" of modern biology:</string>
+    <string name="Q4A">Charles Darwin</string>
+    <string name="Q4B">Gregor Mendel</string>
+    <string name="Q4C">Isaac Newton</string>
+    <string name="Q4ans">Suspicions</string>
+    <string name="Q5">Charles Darwin is responsible for explaining:</string>
+    <string name="Q5A">Theory of Relativity</string>
+    <string name="Q5B">Theory of Evolution of Species</string>
+    <string name="Q5C">Theory of Everything</string>
+    <string name="Q5ans">Theory of Evolution of Species</string>
+
+
+
+
+</resources>
