@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GenericQuiz</string>
+    <string name="introduction">This is a sample quiz</string>
+    <string name="sample_text">This is where the text should be</string>
+    <string name="enter">Enter</string>
+    <string name="correct">You are correct!</string>
+
+    <string name="isTrue">True</string>
+    <string name="isFalse">False</string>
+</resources>
