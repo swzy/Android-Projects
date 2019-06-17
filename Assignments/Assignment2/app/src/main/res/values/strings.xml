@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2 - Simple Calculator</string>
+    <string name="emptyField">0</string>
+
+</resources>

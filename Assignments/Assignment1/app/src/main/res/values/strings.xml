@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment1 - Hello World w/Data Binding</string>
+    <string name="helloWorld">Hello World!</string>
+</resources>
