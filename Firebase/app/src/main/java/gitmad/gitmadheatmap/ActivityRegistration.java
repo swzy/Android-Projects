@@ -37,7 +37,7 @@ public class ActivityRegistration extends AppCompatActivity {
         FirebaseApp.initializeApp(this);
         setContentView(R.layout.activity_registration);
 
-        // Layout elements.
+        // Layout elements
         registerButton = findViewById(R.id.register_btn_create_account);
         passwordEntry = findViewById(R.id.register_editText_password);
         emailEntry = findViewById(R.id.register_editText_email);
