@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <!-- Simple calculator by Sam Yi using GridLayout -->
+=======
+>>>>>>> 29950d18aa18fc24e1accffa8a92526cb3f9387e
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -217,7 +220,11 @@
             android:layout_rowWeight="1"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
+<<<<<<< HEAD
             android:text=":)"
+=======
+            android:text="+/-"
+>>>>>>> 29950d18aa18fc24e1accffa8a92526cb3f9387e
             android:textAlignment="center"
             android:textSize="30sp" />
 

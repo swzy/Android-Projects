@@ -1,5 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Assignment2 - Simple Calculator (MVC)</string>
+=======
+    <string name="app_name">Assignment2 - Simple Calculator</string>
+>>>>>>> 29950d18aa18fc24e1accffa8a92526cb3f9387e
     <string name="emptyField">0</string>
 
 </resources>
